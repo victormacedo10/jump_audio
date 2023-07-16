@@ -1,0 +1,5 @@
+numpy
+matplotlib
+librosa
+scipy
+noisereduce
